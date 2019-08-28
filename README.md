@@ -1,4 +1,6 @@
 # Exercício: Eight Queens Problem
+NOME: <digite seu nome>
+  
 ## O problema das 8 rainhas
 
 O quebra-cabeça das oito rainhas, ou o problema das oito rainhas, pergunta como colocar oito rainhas em um tabuleiro de xadrez sem atacar umas às outras. 
