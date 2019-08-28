@@ -1,5 +1,5 @@
 # Exercício: Eight Queens Problem
-NOME: <digite seu nome>
+NOME: [digite seu nome]
   
 ## O problema das 8 rainhas
 
