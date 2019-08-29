@@ -1,5 +1,5 @@
 # Exercício: Eight Queens Problem
-NOME: [digite seu nome]
+NOME: Thiago Costa
   
 ## O problema das 8 rainhas
 
